@@ -1,3 +1,6 @@
+//2 Escreva uma classe de teste que chama cada um dos métodos que você escreveu no
+//exercício 1.
+
 public class TesteImpressora {
     public static void main(String[] args) {
         Impressora imp = new Impressora();
